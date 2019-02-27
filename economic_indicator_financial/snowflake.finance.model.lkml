@@ -1,3 +1,3 @@
 connection: "snowlooker"
 
-include: "snowflake.finance.explore"
+include: "fin.snowflake.explore"

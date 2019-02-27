@@ -1,3 +1,3 @@
 connection: "snowlooker"
 
-include: "snowflake.gsod.explore"
+include: "snowflake.gsod.explore.lkml"

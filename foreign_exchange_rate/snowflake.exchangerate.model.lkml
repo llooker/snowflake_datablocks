@@ -1,3 +1,3 @@
 connection: "snowlooker"
 
-include: "snowflake.explore"
+include: "exch.snowflake.explore"
